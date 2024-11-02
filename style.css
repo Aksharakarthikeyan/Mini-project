@@ -1,0 +1,25 @@
+body{
+    font-weight: bold;
+}
+table{
+    background-color: #0c7092;
+    color: white;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    margin-left: 30%;
+    margin-top: 14%;
+}
+button{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+
+}
+span{
+    color: red;
+    display:none ;
+}
